@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "APIRequest",
+        "repositoryURL": "https://github.com/GroupeMINASTE/APIRequest.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "b23518a540889a7f3f238fa90d4e084cc1e2bd3b",
+          "version": "1.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

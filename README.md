@@ -16,6 +16,4 @@ Simple IOS app using swift to react with API and take JS libraries also includes
 
 <img src="https://github.com/D4vr4n/CDNJS-libraries-finalProject-/blob/main/images/6.png" width="180" height="400" />
 
-<img src="https://github.com/D4vr4n/CDNJS-libraries-finalProject-/blob/main/images/7.png" width="180" height="400" />
-
 <img src="https://github.com/D4vr4n/CDNJS-libraries-finalProject-/blob/main/images/8.png" width="180" height="400" />
